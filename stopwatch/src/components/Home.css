@@ -1,0 +1,41 @@
+head,body{
+    background-image: url("moun.jpg");
+    background-size: cover;
+}
+.outerbox {
+    border: 0.3px solid rgb(155, 155, 155) ;
+    margin:auto;
+    width: 60%;
+    height: 60vh;
+    margin-top: 54px;
+    box-shadow: 0 5px 5px 1px rgba(0,0,0,0.5);   
+}
+.screen{
+    margin: auto;
+    width: 40%;
+    height: 30vh;
+    text-align: center;
+    font-size: 37px;
+    font-weight: bold;
+    margin-top: 61px;
+    background-color: rgb(160, 250, 245);
+    border-radius: 5px;
+}
+
+.btn{
+    margin: auto;
+    text-align: center;
+    margin-top: 17px;
+}
+.btn button{
+    margin-left: 12px;
+    width: 10%;
+    height: 27px;
+    background-color: red;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.screen h1{
+    margin-top: 41px;
+    padding-top: 38px;
+}
